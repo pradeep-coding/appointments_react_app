@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/appointments_react_app/static/css/main.4a85868e.chunk.css",
+    "main.css": "/appointments_react_app/static/css/main.f82b634d.chunk.css",
     "main.js": "/appointments_react_app/static/js/main.7de9efe2.chunk.js",
     "main.js.map": "/appointments_react_app/static/js/main.7de9efe2.chunk.js.map",
     "runtime-main.js": "/appointments_react_app/static/js/runtime-main.470b3e8f.js",
@@ -8,13 +8,13 @@
     "static/js/2.c7d4ae2b.chunk.js": "/appointments_react_app/static/js/2.c7d4ae2b.chunk.js",
     "static/js/2.c7d4ae2b.chunk.js.map": "/appointments_react_app/static/js/2.c7d4ae2b.chunk.js.map",
     "index.html": "/appointments_react_app/index.html",
-    "static/css/main.4a85868e.chunk.css.map": "/appointments_react_app/static/css/main.4a85868e.chunk.css.map",
+    "static/css/main.f82b634d.chunk.css.map": "/appointments_react_app/static/css/main.f82b634d.chunk.css.map",
     "static/js/2.c7d4ae2b.chunk.js.LICENSE.txt": "/appointments_react_app/static/js/2.c7d4ae2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.470b3e8f.js",
     "static/js/2.c7d4ae2b.chunk.js",
-    "static/css/main.4a85868e.chunk.css",
+    "static/css/main.f82b634d.chunk.css",
     "static/js/main.7de9efe2.chunk.js"
   ]
 }
